@@ -8,6 +8,8 @@ I obtained the new feature information from:
 
 * Confluence design documents
 
+* JIRA Developer, QA, and Product Management epics and user stories
+
 * Development, QA, and Product Management interviews
 
 * Developer source code
